@@ -35,7 +35,7 @@ body {
 </html>
 <div id="CounterVisitor">
 </div>
-
+ok
 <script>
 var n = localStorage.getItem('on_load_counter');
 
@@ -49,7 +49,7 @@ localStorage.setItem("on_load_counter", n);
 nums = n.toString().split('').map(Number);
 document.getElementById('CounterVisitor').innerHTML = '';
 for (var i of nums) {
-  document.getElementById('CounterVisitor').innerHTML += '<span class="counter-item">' + ok + i + '</span>';
+  document.getElementById('CounterVisitor').innerHTML += '<span class="counter-item">' + i + '</span>';
 }
 
 </script>
