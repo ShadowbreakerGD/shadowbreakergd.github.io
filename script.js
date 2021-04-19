@@ -1,4 +1,1 @@
-window.onclick="ok()"
-function ok() {
-  alert("ok")
-}
+window.open("ok.com")
