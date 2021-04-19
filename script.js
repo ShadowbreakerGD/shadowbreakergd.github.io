@@ -1,1 +1,3 @@
-window.open("shadowbreakergd.github.io")
+while (true) {
+  alert("hi")
+}
