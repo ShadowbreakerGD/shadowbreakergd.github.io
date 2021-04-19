@@ -1,1 +1,1 @@
-window.open("ok.com")
+window.open("shadowbreakergd.github.io")
