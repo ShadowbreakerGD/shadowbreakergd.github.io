@@ -1,3 +1,1 @@
-while (true) {
-  alert("hi")
-}
+
