@@ -1,1 +1,1 @@
-console.log("Welcome to my website!");
+console.log(5);
