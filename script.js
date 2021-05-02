@@ -1,1 +1,2 @@
-console.log(5);
+var x = Welcome to my website!;
+console.log(x);
