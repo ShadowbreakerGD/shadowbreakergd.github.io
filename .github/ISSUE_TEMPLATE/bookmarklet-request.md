@@ -7,11 +7,11 @@ assignees: ShadowbreakerGD
 
 ---
 
-### Link 
+**Link:**
 Link to the site that has the bookmarklet you want added.
 
-### Bookmarklet Name
+**Bookmarklet Name:**
 Tell us the name of the bookmarklet you want added, just in case there are multiple bookmarklets on the page.
 
-### What it does
+**What it does:**
 Tell us what the bookmarklet does!
