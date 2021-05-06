@@ -1,7 +1,7 @@
 ---
 name: Bug
 about: Found a bug? Use this issue template to let us know!
-title: 
+title: ''
 labels: bug
 assignees: ShadowbreakerGD
 
@@ -14,5 +14,3 @@ assignees: ShadowbreakerGD
 
 
 #### (Optional) How to fix it:
-
-
