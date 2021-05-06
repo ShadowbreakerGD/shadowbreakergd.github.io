@@ -7,10 +7,10 @@ assignees: ShadowbreakerGD
 
 ---
 
-### What happens:
+**What happens:**
 
 
-### What SHOULD happen:
+**What SHOULD happen:**
 
 
-#### (Optional) How to fix it:
+**(Optional)** How to fix it:
