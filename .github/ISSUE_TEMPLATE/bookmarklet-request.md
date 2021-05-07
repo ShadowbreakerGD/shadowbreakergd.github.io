@@ -8,10 +8,10 @@ assignees: ShadowbreakerGD
 ---
 
 **Link:**
-Link to the site that has the bookmarklet you want added.
+<!--Link to the site that has the bookmarklet you want added.-->
 
 **Bookmarklet Name:**
-Tell us the name of the bookmarklet you want added, just in case there are multiple bookmarklets on the page.
+<!--Tell us the name of the bookmarklet you want added, just in case there are multiple bookmarklets on the page.-->
 
 **What it does:**
-Tell us what the bookmarklet does!
+<!--Tell us what the bookmarklet does!-->
